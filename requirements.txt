@@ -1,0 +1,6 @@
+# Python packages used by this project.
+bandit
+black
+pytest
+python-dotenv
+openai
